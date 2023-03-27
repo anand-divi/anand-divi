@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://anand-divi.github.io](https://anand-divi.github.io)
+- 👨‍💻 All of my projects are available at <a href="https://anand-divi.github.io">Resume</a>
 
 - 💬 Ask me about **Java,SQL,Hibernate,Spring**
 
