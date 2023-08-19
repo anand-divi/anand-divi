@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Anand divi</h1>
-<h3 align="center">A passionate java backend developer</h3>
 <img align="right" alt="coding" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -7,11 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anand-divi" alt="anand-divi" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available in my <a href='https://anand-divi.github.io/'>Portfolio</a>
-
-- 💬 Ask me about **Java,SQL,Hibernate,Spring**
 
 - 📫 How to reach me **anandsagardivi@gmail.com**
 
